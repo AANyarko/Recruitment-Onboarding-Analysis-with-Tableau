@@ -1,4 +1,4 @@
-Leveraging the power of Tableau, this dashboard provides a detailed view of critical metrics that influence our talent management and organizational strategies.
+Leveraging the power of Tableau, this dashboard provides a detailed view of critical metrics that influence talent management and organizational strategies.
 
 The line chart captures the trend of recruitment over time, allowing stakeholders to identify patterns and fluctuations. Staff levels in the Learning and Development (L&D) data are color-coded for a focused analysis of recruitment dynamics across different levels.
 
